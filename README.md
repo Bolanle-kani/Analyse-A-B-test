@@ -6,7 +6,7 @@
 
 
 
->**Conclusion** <br><br>
+### Conclusion <br><br>
 - All of the p-values are greater than 0.05 therefore none of the variables are statistically significant.
 - There's no significant impact of the countries and new page on conversion rates. The company shouldn't implement this new page as there is no conclusive evidence that it is better than the old page.
 - If an individual is in canada, they are 0.951 more likely to be converted than if they aare in UK, holding all other variables constant.
